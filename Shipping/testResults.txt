@@ -1,0 +1,184 @@
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 0
+Please enter package volume in cubic inches between 1 and 8000: 8001
+Please enter package volume in cubic inches between 1 and 8000: 999
+Please enter package weight in pounds between 1 and 100: 0
+Please enter package weight in pounds between 1 and 100: 101
+Please enter package weight in pounds between 1 and 100: 59
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 0
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 4
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 1
+Shipping Invoice
+Package volume in cubic inches: 999
+Package weight in pounds: 59
+Ship via: Ground
+Cost: $8
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 60
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 1
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 60
+Ship via: Ground
+Cost: $8
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1001
+Please enter package weight in pounds between 1 and 100: 60
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 1
+Shipping Invoice
+Package volume in cubic inches: 1001
+Package weight in pounds: 60
+Ship via: Ground
+Cost: $12
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 61
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 1
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 61
+Ship via: Ground
+Cost: $12
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 999
+Please enter package weight in pounds between 1 and 100: 39
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 2
+Shipping Invoice
+Package volume in cubic inches: 999
+Package weight in pounds: 39
+Ship via: Super Saver Air
+Cost: $12
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 40
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 2
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 40
+Ship via: Super Saver Air
+Cost: $12
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1001
+Please enter package weight in pounds between 1 and 100: 40
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 2
+Shipping Invoice
+Package volume in cubic inches: 1001
+Package weight in pounds: 40
+Ship via: Super Saver Air
+Cost: $16
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 41
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 2
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 41
+Ship via: Super Saver Air
+Cost: $16
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 999
+Please enter package weight in pounds between 1 and 100: 29
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 3
+Shipping Invoice
+Package volume in cubic inches: 999
+Package weight in pounds: 29
+Ship via: Next Day Air
+Cost: $15
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 30
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 3
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 30
+Ship via: Next Day Air
+Cost: $15
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1001
+Please enter package weight in pounds between 1 and 100: 30
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 3
+Shipping Invoice
+Package volume in cubic inches: 1001
+Package weight in pounds: 30
+Ship via: Next Day Air
+Cost: $25
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  1
+Welcome to Ben Lufuta Shipping
+Please enter package volume in cubic inches between 1 and 8000: 1000
+Please enter package weight in pounds between 1 and 100: 31
+
+ 1) Ground 5-10 business days  
+ 2) Super  saver air  2-4  business days   
+ 3) Next day air    
+Please select your shipping speed. Enter 1, 2 , or 3: 3
+Shipping Invoice
+Package volume in cubic inches: 1000
+Package weight in pounds: 31
+Ship via: Next Day Air
+Cost: $25
+Do you want to ship another package? Enter 1 for Yes or 0 for No:  0
+Goodbye.
+-- program is finished running --
